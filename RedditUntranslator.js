@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name			NR Reddit Unstranslator
+// @name			NR Reddit Untranslator
 // @version			1.0.0.0
 // @description		Toggles Reddit's automatic translations off when loading the page (useful in incognito mode)
 // @author			NotReal96
