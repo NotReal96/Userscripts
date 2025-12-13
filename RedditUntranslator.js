@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name			NR Reddit Untranslator
 // @version			1.1.0.0
-// @description		Toggles Reddit's automatic translations off when loading the page and removes "tl" from the query string (useful in incognito mode)
+// @description		Remove Reddit's automatic translations when loading the page (useful in incognito mode)
 // @author			NotReal96
 // @license			https://github.com/NotReal96/Userscripts/blob/main/LICENSE-C
 // @match			https://www.reddit.com/*
