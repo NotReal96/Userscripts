@@ -9,7 +9,7 @@
 // @run-at			document-start
 // ==/UserScript==
 
-let D=document,y,x=new URL(location.href),T=200,t,z,w
+let D=document,y,x=new URL(location.href),T=200,t,z
 if(x.searchParams.has("tl"))location.replace(x.searchParams.delete("tl"),x)
 y=(r,s)=>{
 	let R=r.querySelector(s)
